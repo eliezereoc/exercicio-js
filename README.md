@@ -1,2 +1,3 @@
 # exercicio-js
-Exercícios Curso Web Moderno Completo com JS-2021
+
+Exercícios do curso de JS e TS 2022
